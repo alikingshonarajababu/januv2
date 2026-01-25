@@ -25,7 +25,7 @@
 ‎protectCredits(module.exports.config);
 ‎
 ‎// 📁 PATHS
-‎const BASE_DIR = path.join(__dirname, "ARIF-BABU");
+‎const BASE_DIR = path.join(__dirname, "ROMEO-KING");
 ‎const HISTORY_FILE = path.join(BASE_DIR, "ai_history.json");
 ‎const BOT_REPLY_FILE = path.join(BASE_DIR, "bot-reply.json");
 ‎
